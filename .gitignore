@@ -46,3 +46,4 @@ secrets.tfvars
 /tf-ecs-fargate-tmpl-back
 /tffile
 /tf-ecs-fargate-tmpl-back/.gitignore
+/tf-ecs-fargate-tmpl/.gitignore
