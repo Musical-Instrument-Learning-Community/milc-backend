@@ -36,3 +36,16 @@ out/
 
 ### VS Code ###
 .vscode/
+
+
+### devops Code ###
+.terraform
+.terraform.tfstate.lock.info
+terraform.tfstate
+terraform.tfstate.backup
+secrets.tfvars
+
+/tf-ecs-fargate-tmpl-back
+/tffile
+/tf-ecs-fargate-tmpl-back/.gitignore
+/tf-ecs-fargate-tmpl/.gitignore
