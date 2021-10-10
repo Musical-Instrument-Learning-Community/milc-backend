@@ -37,6 +37,8 @@ out/
 ### VS Code ###
 .vscode/
 
+
+### devops Code ###
 .terraform
 .terraform.tfstate.lock.info
 terraform.tfstate
